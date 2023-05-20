@@ -1,0 +1,4 @@
+NÉV;KOR;CÍM;FIZETÉS
+Károly;45;Dömsöd;460000
+Józska;65;Vác;500000
+Margit;89;Pécel;452000

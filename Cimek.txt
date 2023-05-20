@@ -1,0 +1,5 @@
+GyakorloProgram{kor=56, fizetes=450000, nev=Béla, cim=Budapest}
+GyakorloProgram{kor=45, fizetes=460000, nev=Károly, cim=Dömsöd}
+GyakorloProgram{kor=65, fizetes=500000, nev=Józska, cim=Vác}
+GyakorloProgram{kor=100, fizetes=10000000, nev=Erzsébet, cim=Budapest}
+GyakorloProgram{kor=89, fizetes=452000, nev=Margit, cim=Pécel}

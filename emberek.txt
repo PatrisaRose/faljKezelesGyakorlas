@@ -1,0 +1,6 @@
+NÉV;KOR;CÍM;FIZETÉS
+Béla;56;Budapest;450000
+Károly;45;Dömsöd;460000
+Józska;65;Vác;500000
+Erzsébet;100;Budapest;10000000
+Margit;89;Pécel;452000
